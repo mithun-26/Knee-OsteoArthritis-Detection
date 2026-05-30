@@ -1,4 +1,4 @@
-<h1 align="center">🦵 OSTEO VISION</h1>
+<h1 align="center">OSTEO VISION</h1>
 
 <h3 align="center">
 AI-Powered Knee Osteoarthritis Detection using Deep Learning
@@ -10,7 +10,7 @@ TensorFlow • ResNet152V2 • Streamlit • Grad-CAM • AWS S3
 
 ---
 
-## 📖 Overview
+## Overview
 
 OSTEO VISION is a deep learning-based medical imaging application that automatically detects and classifies the severity of Knee Osteoarthritis (OA) from X-ray images.
 
@@ -18,7 +18,7 @@ The system uses a fine-tuned **ResNet152V2** model to predict the severity of Os
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 ✅ Automated Knee Osteoarthritis Classification
 
@@ -34,7 +34,7 @@ The system uses a fine-tuned **ResNet152V2** model to predict the severity of Os
 
 ---
 
-## 🏥 KL Grading System
+## KL Grading System
 
 | Grade      | Description       |
 | ---------- | ----------------- |
@@ -46,7 +46,7 @@ The system uses a fine-tuned **ResNet152V2** model to predict the severity of Os
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The final model is based on:
 
@@ -66,7 +66,7 @@ ResNet152V2 achieved the best overall performance and was selected as the final 
 
 ---
 
-## 🔬 Explainable AI (Grad-CAM)
+##  Explainable AI (Grad-CAM)
 
 Medical AI systems require transparency and interpretability.
 
@@ -81,7 +81,7 @@ This helps:
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Deep Learning
 
@@ -114,31 +114,31 @@ This helps:
 
 ---
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 ### Home Page
 
-![Home Page]<img width="1911" height="664" alt="image" src="https://github.com/user-attachments/assets/b55431df-b3f7-4bc7-b4e1-2dbcbc63d532" />
+<img width="1911" height="664" alt="image" src="https://github.com/user-attachments/assets/b55431df-b3f7-4bc7-b4e1-2dbcbc63d532" />
 
 
 ### Prediction Result
 
-![Prediction Result]<img width="1112" height="386" alt="image" src="https://github.com/user-attachments/assets/c1e7760a-d4a8-4264-8030-85e869434af3" />
+<img width="1112" height="386" alt="image" src="https://github.com/user-attachments/assets/c1e7760a-d4a8-4264-8030-85e869434af3" />
 
 
 ### Grad-CAM Visualization
 
-![Grad-CAM]<img width="1869" height="773" alt="image" src="https://github.com/user-attachments/assets/2b4c9b0f-6419-43a4-9ee0-bb4e22ab6f73" />
+<img width="1869" height="773" alt="image" src="https://github.com/user-attachments/assets/2b4c9b0f-6419-43a4-9ee0-bb4e22ab6f73" />
 
 
 ### Confidence Graph
 
-![Confidence Graph]<img width="1887" height="736" alt="image" src="https://github.com/user-attachments/assets/79b42778-3fae-47c7-93c5-2c03671e4926" />
+<img width="1887" height="736" alt="image" src="https://github.com/user-attachments/assets/79b42778-3fae-47c7-93c5-2c03671e4926" />
 
 
 ---
 
-## 🚀 Running Locally
+##  Running Locally
 
 ### Clone Repository
 
@@ -177,7 +177,7 @@ streamlit run app/app.py
 ---
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Clinical validation with larger datasets
 * Mobile-friendly deployment
@@ -187,7 +187,7 @@ streamlit run app/app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ### Mithun K A
 
@@ -199,6 +199,6 @@ GitHub: https://github.com/mithun-26
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is intended for educational and research purposes only and should not be used as a substitute for professional medical diagnosis.
